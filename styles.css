@@ -138,7 +138,7 @@ border-radius: 25%;
 #hobbies,#skills{
     padding-right: 20px;
     border:1px solid black;
-    border-spacing: 40px;
+    border-spacing: 10px;
     padding:30px;
     background-color:#0000ff38;
     border-bottom: 1px solid black;
@@ -152,13 +152,11 @@ border-radius: 25%;
 }
 
 #experience{
-    padding:200px;
+    padding:100px;
     text-align: center;
 }
 
-.gallery{
-  
-}
+
 
 .all{
     padding-left: 500px;
