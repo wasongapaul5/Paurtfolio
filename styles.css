@@ -56,6 +56,9 @@ h2,h1,h4{
 
 h3{
     font-size: 25px;
+    text-align: center;
+    padding:2px;
+    font-size: 50px;
 }
 
 
@@ -89,4 +92,46 @@ td{
     padding: 30px;
     margin:10px;
     font-weight: bolder
+}
+
+.photos{
+    /* justify-content: space-between;
+    display: -webkit-inline-flex;
+    padding: 90px;
+} */
+
+
+
+}
+
+.one,.two {
+    display: flex;
+    justify-content: space-around;
+}
+ .two img{
+border-radius: 25%;
+ }
+
+.one img{
+    border-radius: 25%;
+}
+
+.column{
+    text-align: center;
+    font-size: 30px;
+}
+
+.contacts{
+    padding:30px;
+    border:1px solid black;
+
+}
+
+.contact{
+    padding:90px;
+}
+
+#footer{
+    font-size: 50px;
+    padding-left: 50%;
 }
